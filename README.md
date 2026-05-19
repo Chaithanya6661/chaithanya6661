@@ -8,7 +8,7 @@ I transform raw data into actionable insights using **Python, SQL, Tableau, Powe
 
 ## 🚀 About Me
 
-- 🎓 Master's in Business Analytics from :contentReference[oaicite:0]{index=0} (GPA: 3.8/4.0)
+- 🎓 Master's in Business Analytics(GPA: 3.8/4.0)
 - 📊 Experienced in Data Analysis, Business Intelligence, and AI Automation
 - 📈 Passionate about solving business problems with data-driven insights
 ---
