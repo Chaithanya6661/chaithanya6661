@@ -57,7 +57,7 @@ I transform raw data into actionable insights using **Python, SQL, Tableau, Powe
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/chaithanya-krishna
+- 💼 LinkedIn: https://www.linkedin.com/in/chaithanya-krishna-chanam-38853918b/
 - 📧 Email: chaithanya9369@gmail.com
 - 📱 Phone: +1 (203) 444-5363
 
