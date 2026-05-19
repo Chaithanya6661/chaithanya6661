@@ -11,7 +11,6 @@ I transform raw data into actionable insights using **Python, SQL, Tableau, Powe
 - 🎓 Master's in Business Analytics from :contentReference[oaicite:0]{index=0} (GPA: 3.8/4.0)
 - 📊 Experienced in Data Analysis, Business Intelligence, and AI Automation
 - 📈 Passionate about solving business problems with data-driven insights
-- 
 ---
 
 ## 🛠️ Technical Skills
@@ -42,7 +41,6 @@ I transform raw data into actionable insights using **Python, SQL, Tableau, Powe
 ### ☁️ Deployment & Cloud
 - AWS
 - FastAPI
-- 
 ---
 
 ## 📜 Certifications & Interests
@@ -52,7 +50,6 @@ I transform raw data into actionable insights using **Python, SQL, Tableau, Powe
 - 📈 Business Intelligence
 - 🧠 Machine Learning
 - ⚙️ Workflow Automation
-
 ---
 
 ## 🌐 Connect With Me
@@ -60,19 +57,5 @@ I transform raw data into actionable insights using **Python, SQL, Tableau, Powe
 - 💼 LinkedIn: https://www.linkedin.com/in/chaithanya-krishna-chanam-38853918b/
 - 📧 Email: chaithanya9369@gmail.com
 - 📱 Phone: +1 (203) 444-5363
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## ✨ Motto
-
-> "Turning data into decisions and AI into business value."
 
 ---
